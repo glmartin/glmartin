@@ -1,6 +1,8 @@
 ### For the Love of Code
 
-As my bio says, I love coding. I started with Java, and kept with it for a while, eventually giving way to Scala and Kotlin as my languages of choice. I've also spent some time with Perl and Python. Lately, I've been learning Go.
+As my bio says, I love coding. I started with Java, and kept with it for a while, eventually giving way to Scala and Kotlin as my languages of choice. I've also spent some time with Perl and Python. 
+
+🌱 Lately, I've been learning Go.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
