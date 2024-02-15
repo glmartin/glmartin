@@ -1,6 +1,6 @@
 ### For the Love of Code
 
-As my bio says, I love coding. I started with Java, and kept with it for a while, eventually giving way to Kotlin and Scala as my languages of choice. I've also spent some time with Perl and Python. 
+As my bio says, I love coding. I started with Java and kept with it for most of my career. Additionally, I added other JVM languages like Kotlin and Scala to my skill set. I've also spent some time with Perl and Python. 
 
 🌱 Lately, I've been learning Go.
 
