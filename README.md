@@ -10,6 +10,8 @@ Here are some languages, tools, and frameworks I'm usually working with:
 
 [![My Skills](https://skillicons.dev/icons?i=java,docker,aws,gcp,git,go,gradle,idea,kotlin,linux,postgres,py,raspberrypi,spring,kubernetes)](https://skillicons.dev)
 
+[![Codewars Badge](https://www.codewars.com/users/gmartin314/badges/small)](https://www.codewars.com/users/gmartin314)
+
 <!--
 **glmartin/glmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
