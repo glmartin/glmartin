@@ -6,6 +6,10 @@ As my bio says, I love coding. I started with Java and kept with it for most of 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+Here are some languages, tools, and frameworks I'm usually working with:
+
+[![My Skills](https://skillicons.dev/icons?i=java,docker,aws,gcp,git,go,gradle,idea,kotlin,linux,postgres,py,raspberrypi,spring,kubernetes)](https://skillicons.dev)
+
 <!--
 **glmartin/glmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
