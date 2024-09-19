@@ -8,7 +8,7 @@ As my bio says, I love coding. I started with Java and kept with it for most of 
 
 Here are some languages, tools, and frameworks I'm usually working with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,docker,aws,gcp,git,go,gradle,idea,kotlin,linux,postgres,py,raspberrypi,spring,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,docker,gcp,aws,git,go,gradle,idea,kotlin,linux,postgres,py,raspberrypi,spring,kubernetes)](https://skillicons.dev)
 
 [![Codewars Badge](https://www.codewars.com/users/gmartin314/badges/small)](https://www.codewars.com/users/gmartin314)
 
